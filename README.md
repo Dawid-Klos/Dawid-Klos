@@ -11,7 +11,7 @@ My weapon of choice? Neovim — I take my shots one keystroke at a time, sniper-
 <img src="https://skillicons.dev/icons?i=linux,arch,neovim" />
 <br />
 <br />
-Total coding time (since October 2024)
+Total coding time since Nov 14 2024
 <br />
 <br />
 <a href="https://wakatime.com/@78f4632c-f19d-4425-b931-38b32b68e222"><img src="https://wakatime.com/badge/user/78f4632c-f19d-4425-b931-38b32b68e222.svg" alt="Total time coded since Nov 14 2024" /></a>
@@ -40,9 +40,8 @@ Strength Forge
 ## ⚡️ Stats
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Dawid-Klos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Dawid Klos GitHub Stats" />
-  <br>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Dawid-Klos&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Dawid Klos" />
+    <img height=260 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=davidowsky&layout=compact&theme=catppuccin_mocha" alt="Dawid Klos GitHub Stats" alt="Dawid's Wakatime stats" />
+    <img height=260 align="center" src="https://github-readme-stats.vercel.app/api?username=Dawid-Klos&theme=catppuccin_mocha&count_private=true&show_icons=true&rank_icon=github&hide=issues,contribs&locale=en" alt="Dawid Klos GitHub Stats" />
 </div>
 
 <hr>
