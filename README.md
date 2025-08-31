@@ -20,6 +20,7 @@ When I'm not debugging someone else's code, you'll find me exploring Golang — 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=golang,java,spring,ts,react,postgres" />
+  <br />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,git,postman,figma" />
 </p>
 
@@ -33,15 +34,6 @@ When I'm not debugging someone else's code, you'll find me exploring Golang — 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Dawid-Klos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Dawid Klos GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Dawid-Klos&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Dawid Klos" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Dawid-Klos&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Dawid Klos's Most Used Languages" />
-</div>
-
-<hr>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Dawid-Klos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Dawid Klos GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Dawid-Klos&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Dawid Klos" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Dawid-Klos&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Dawid Klos's Most Used Languages" />
-  
 </div>
 
 <hr>
